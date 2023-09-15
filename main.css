@@ -1,0 +1,32 @@
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    color: #555;
+    background: #222;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #ff69b4;
+  }
+  p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 1.8;
+  }
+
+  img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #888;
+  }
